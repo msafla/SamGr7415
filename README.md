@@ -1,8 +1,13 @@
+<img align="right" width="230" src="assets/profile.jpg" alt="Mohamad Safla — Cybersecurity Engineer & Consultant" />
+
 # Mohamad Safla
 
 **Cybersecurity Engineer & Consultant — Governance, Compliance & Security Automation**
 
-Paris, France · [MS-Security Consulting](https://ms-securityconsulting.fr) · [LinkedIn](https://www.linkedin.com/in/mohamadsafla/) · [Email](mailto:contact@ms-securityconsulting.fr)
+[![Paris](https://img.shields.io/badge/Paris-Île--de--France-2C3E50?style=flat&logo=googlemaps&logoColor=white)](https://msafla.fr)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat)](https://www.comptia.org/)
+[![EFREI Paris](https://img.shields.io/badge/EFREI-Paris-0A2540?style=flat)](https://www.efrei.fr/)
+[![Profile views](https://komarev.com/ghpvc/?username=SamGr7415&label=views&color=0e75b6&style=flat)](https://github.com/SamGr7415)
 
 I help organizations turn cybersecurity and regulatory requirements into practical, tracked action plans — combining governance, risk assessment, operational security and purpose-built automation.
 
@@ -41,6 +46,8 @@ Aujourd'hui, j'interviens comme ingénieur cybersécurité chez **Skaleet** (fin
 
 ## Expériences
 
+![Skaleet](assets/skaleet.png)
+
 ### Cybersecurity Engineer — Skaleet *(B2B fintech — Core Banking)*
 `Janv. 2026 – présent`
 - Pilotage opérationnel d'un plan annuel de contrôles de sécurité : cadrage, collecte de preuves, reporting et suivi des remédiations.
@@ -77,13 +84,26 @@ Aujourd'hui, j'interviens comme ingénieur cybersécurité chez **Skaleet** (fin
 
 ## Projets
 
-**Watchtower** — Pilotage automatisé des contrôles de sécurité : suivi du plan annuel, centralisation des résultats et des remédiations, reporting.
+### Watchtower · Pilotage automatisé des contrôles de sécurité
+
+<img src="assets/watchtower.png" alt="Watchtower — pilotage automatisé des contrôles de sécurité" width="100%" />
+
+Outil de suivi du plan annuel de contrôles de sécurité : centralisation des résultats et des remédiations, tableaux de bord et reporting.
 `Python` · `JavaScript` · `API Atlassian`
 
-**La Sentinelle** — Audit et gouvernance des permissions Confluence : identification des écarts, rapports par espace et suivi des exceptions.
+### La Sentinelle · Audit et gouvernance des permissions Confluence
+
+<img src="assets/sentinelle.png" alt="La Sentinelle — audit et gouvernance des permissions Confluence" width="100%" />
+
+Système d'audit des permissions Confluence : identification des écarts, rapports par espace et suivi des exceptions.
 `Python` · `Flask` · `API Confluence`
 
-*Également : création et refonte de sites web, et outils sur mesure (voir le portfolio).*
+### Web & outils sur mesure
+
+<img src="assets/edoyon.png" alt="Site edoyon.fr — création et refonte web" width="60%" />
+
+Création et refonte de sites web, ainsi que des outils ajustés à un contexte précis (scripts, intégrations API, petites interfaces).
+[Voir l'étude de cas edoyon.fr →](https://www.edoyon.fr/)
 
 ---
 
@@ -102,6 +122,8 @@ I currently work as a cybersecurity engineer at **Skaleet** (B2B fintech, Core B
 | **Security controls automation** | Python · Ansible · REST APIs · Dashboards & reporting · Result centralisation |
 
 ## Experience
+
+![Skaleet](assets/skaleet.png)
 
 ### Cybersecurity Engineer — Skaleet *(B2B fintech — Core Banking)*
 `Jan 2026 – present`
@@ -139,13 +161,26 @@ I currently work as a cybersecurity engineer at **Skaleet** (B2B fintech, Core B
 
 ## Projects
 
-**Watchtower** — Automated security control management: annual control plan tracking, centralised results and remediation, reporting.
+### Watchtower · Automated security control management
+
+<img src="assets/watchtower.png" alt="Watchtower — automated security control management" width="100%" />
+
+Annual security control plan tracking: centralised results and remediation, dashboards and reporting.
 `Python` · `JavaScript` · `Atlassian API`
 
-**La Sentinelle** — Confluence permission audit and governance: gap identification, per-space reports and exception tracking.
+### La Sentinelle · Confluence permission audit and governance
+
+<img src="assets/sentinelle.png" alt="La Sentinelle — Confluence permission audit and governance" width="100%" />
+
+Confluence permission audit system: gap identification, per-space reports and exception tracking.
 `Python` · `Flask` · `Confluence API`
 
-*Also: website creation/redesign and custom tooling (see portfolio).*
+### Web & custom tooling
+
+<img src="assets/edoyon.png" alt="edoyon.fr website — web design and redesign" width="60%" />
+
+Website creation and redesign, plus tools tailored to a specific context (scripts, API integrations, lightweight interfaces).
+[See the edoyon.fr case study →](https://www.edoyon.fr/)
 
 ---
 
