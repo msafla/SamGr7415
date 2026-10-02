@@ -1,5 +1,3 @@
-<img align="right" width="230" src="assets/profile.jpg" alt="Mohamad Safla — Cybersecurity Engineer & Consultant" />
-
 # Mohamad Safla
 
 **Cybersecurity Engineer & Consultant — Governance, Compliance & Security Automation**
@@ -45,8 +43,6 @@ Aujourd'hui, j'interviens comme ingénieur cybersécurité chez **Skaleet** (fin
 **Outils & méthodes :** Jira · Confluence · Cyberwatch · EzeeLogin · Burp Suite · Kali Linux · Scrum / Agile
 
 ## Expériences
-
-![Skaleet](assets/skaleet.png)
 
 ### Cybersecurity Engineer — Skaleet *(B2B fintech — Core Banking)*
 `Janv. 2026 – présent`
@@ -122,8 +118,6 @@ I currently work as a cybersecurity engineer at **Skaleet** (B2B fintech, Core B
 | **Security controls automation** | Python · Ansible · REST APIs · Dashboards & reporting · Result centralisation |
 
 ## Experience
-
-![Skaleet](assets/skaleet.png)
 
 ### Cybersecurity Engineer — Skaleet *(B2B fintech — Core Banking)*
 `Jan 2026 – present`
