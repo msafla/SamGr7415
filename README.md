@@ -20,7 +20,7 @@ Aujourd'hui, j'interviens comme ingénieur cybersécurité chez **Skaleet** (fin
 
 | Domaine | Contenu |
 |---|---|
-| **Gouvernance, risques & conformité (GRC)** | EBIOS RM · ISO/IEC 27001:2022 · DORA · PCI DSS · Cyber Resilience Act |
+| **Gouvernance, risques & conformité (GRC)** | EBIOS RM · ISO/IEC 27001:2022 · ISAE 3402 Type 2 · DORA · PCI DSS · Cyber Resilience Act |
 | **Sécurité opérationnelle** | Revues d'accès et de privilèges · Gestion des vulnérabilités · Durcissement · Qualification des alertes SOC |
 | **Automatisation des contrôles** | Python · Ansible · APIs REST · Tableaux de bord & reporting · Centralisation des résultats |
 
@@ -33,6 +33,7 @@ Aujourd'hui, j'interviens comme ingénieur cybersécurité chez **Skaleet** (fin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=postman&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-2C3E50?style=flat)
+![ISAE 3402 Type 2](https://img.shields.io/badge/ISAE%203402%20Type%202-4B5563?style=flat)
 ![DORA](https://img.shields.io/badge/DORA-1F6FEB?style=flat)
 ![PCI DSS](https://img.shields.io/badge/PCI%20DSS-003087?style=flat)
 
@@ -96,7 +97,7 @@ I currently work as a cybersecurity engineer at **Skaleet** (B2B fintech, Core B
 
 | Area | Scope |
 |---|---|
-| **Governance, risk & compliance (GRC)** | EBIOS RM · ISO/IEC 27001:2022 · DORA · PCI DSS · Cyber Resilience Act |
+| **Governance, risk & compliance (GRC)** | EBIOS RM · ISO/IEC 27001:2022 · ISAE 3402 Type 2 · DORA · PCI DSS · Cyber Resilience Act |
 | **Operational security** | Access & privilege reviews · Vulnerability management · Hardening · SOC alert triage |
 | **Security controls automation** | Python · Ansible · REST APIs · Dashboards & reporting · Result centralisation |
 
