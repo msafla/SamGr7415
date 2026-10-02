@@ -74,10 +74,15 @@ Aujourd'hui, j'interviens comme ingénieur cybersécurité chez **Skaleet** (fin
 - **CompTIA Security+**
 - Langues : Français (natif) · Anglais (courant, C1 — TOEIC 945/990)
 
-## Projet
+## Projets
 
-**Watchtower** — Outil de supervision et d'automatisation pour le suivi d'un plan annuel de contrôles de sécurité, la centralisation des résultats et le reporting.
-`Python` · `Docker` · `API REST` · `Contrôles de sécurité`
+**Watchtower** — Pilotage automatisé des contrôles de sécurité : suivi du plan annuel, centralisation des résultats et des remédiations, reporting.
+`Python` · `JavaScript` · `API Atlassian`
+
+**La Sentinelle** — Audit et gouvernance des permissions Confluence : identification des écarts, rapports par espace et suivi des exceptions.
+`Python` · `Flask` · `API Confluence`
+
+*Également : création et refonte de sites web, et outils sur mesure (voir le portfolio).*
 
 ---
 
@@ -131,13 +136,18 @@ I currently work as a cybersecurity engineer at **Skaleet** (B2B fintech, Core B
 - **CompTIA Security+**
 - Languages: French (native) · English (fluent, C1 — TOEIC 945/990)
 
-## Project
+## Projects
 
-**Watchtower** — Monitoring and automation tool for tracking an annual security control plan, centralising results and supporting reporting.
-`Python` · `Docker` · `REST APIs` · `Security controls`
+**Watchtower** — Automated security control management: annual control plan tracking, centralised results and remediation, reporting.
+`Python` · `JavaScript` · `Atlassian API`
+
+**La Sentinelle** — Confluence permission audit and governance: gap identification, per-space reports and exception tracking.
+`Python` · `Flask` · `Confluence API`
+
+*Also: website creation/redesign and custom tooling (see portfolio).*
 
 ---
 
-> Most of my repositories are private. Selected projects, code samples and references are available on request — feel free to reach out.
+> Ouvert aux opportunités professionnelles et aux missions de conseil. La plupart de mes dépôts sont privés — projets, extraits de code et références disponibles sur demande.
 
-[Portfolio](https://ms-securityconsulting.fr) · [LinkedIn](https://www.linkedin.com/in/mohamadsafla/) · [Malt](https://www.malt.fr/profile/mohamadsafla) · [contact@ms-securityconsulting.fr](mailto:contact@ms-securityconsulting.fr)
+[Portfolio](https://msafla.fr) · [MS-Security Consulting](https://ms-securityconsulting.fr) · [LinkedIn](https://www.linkedin.com/in/mohamadsafla/) · [Malt](https://www.malt.fr/profile/mohamadsafla) · [contact@ms-securityconsulting.fr](mailto:contact@ms-securityconsulting.fr)
