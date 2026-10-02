@@ -5,7 +5,7 @@
 [![Paris](https://img.shields.io/badge/Paris-Île--de--France-2C3E50?style=flat&logo=googlemaps&logoColor=white)](https://msafla.fr)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat)](https://www.comptia.org/)
 [![EFREI Paris](https://img.shields.io/badge/EFREI-Paris-0A2540?style=flat)](https://www.efrei.fr/)
-[![Profile views](https://komarev.com/ghpvc/?username=SamGr7415&label=views&color=0e75b6&style=flat)](https://github.com/SamGr7415)
+[![Profile views](https://komarev.com/ghpvc/?username=msafla&label=views&color=0e75b6&style=flat)](https://github.com/msafla)
 
 I help organizations turn cybersecurity and regulatory requirements into practical, tracked action plans — combining governance, risk assessment, operational security and purpose-built automation.
 
